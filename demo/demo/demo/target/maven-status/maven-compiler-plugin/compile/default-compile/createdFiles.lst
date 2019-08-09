@@ -1,0 +1,6 @@
+com\example\demo\DemoApplication.class
+com\example\demo\repository\SubjectRepository.class
+com\example\demo\model\Subject.class
+com\example\demo\dto\SubjectDTO.class
+com\example\demo\controller\SubjectController.class
+com\example\demo\service\SubjectService.class
